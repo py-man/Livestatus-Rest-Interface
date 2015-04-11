@@ -10,7 +10,7 @@ Multisite connection Section sets physical connectivity
 
 =head1 DESCRIPTION
 
-this script prints some information from a given livestatus socket or server via a RESTFUl interface
+this script prints some information from a given Check_MK livestatus socket or server via a Simple RESTFUl interface
 
 =head1 EXAMPLE
 
